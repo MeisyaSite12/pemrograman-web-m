@@ -1,0 +1,7 @@
+{
+    "timestamp": "2026-10-11 10:03:15",
+    "message": "Koneksi database gagal",
+    "context": {
+        "error": "SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it"
+    }
+}
