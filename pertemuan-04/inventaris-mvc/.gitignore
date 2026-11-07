@@ -1,0 +1,8 @@
+.env
+logs/
+public/uploads/items/*
+!public/uploads/items/.gitkeep
+SESSION_IDLE_TIMEOUT=30
+UPLOAD_MAX_MB=2
+API_ALLOWED_ORIGIN=*
+API_DEFAULT_LIMIT=10
